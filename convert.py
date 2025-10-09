@@ -1,13 +1,13 @@
 import sys
 
 def convert_to_binary(number):
-    # Convert the integer to a binary string e,g, 20 should give '10100'
-
-    # To do
     
-    return '000'
     
-
+    return bin(number)
+    
+def convert_to_ternary(number):
+    if number = 0:
+        return 102
 def main():
     """
     Main function to handle command-line arguments and run the conversion.
